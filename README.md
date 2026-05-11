@@ -29,7 +29,7 @@ class MadhuPriya:
         self.education  = "M.S. Data Science @ UMBC (GPA: 4.0/4.0)"
         self.location   = "Baltimore, MD"
         self.focus      = ["Agentic AI", "RAG Pipelines", "LLM Evaluation", "MLOps"]
-        self.patent     = "India Patent Office — Application No. 202341084582 A"
+        self.patent     = "India Patent Office - Application No. 202341084582 A"
         self.fun_fact   = "I turned a dyslexia research project into a published patent 🧾"
 
     def say_hi(self):
